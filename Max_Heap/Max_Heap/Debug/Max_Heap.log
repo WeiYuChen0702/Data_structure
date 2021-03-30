@@ -1,0 +1,11 @@
+﻿  Max_Heap.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(91,10): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(92,10): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(109,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(112,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(116,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(130,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(135,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(150,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Max_Heap\Max_Heap.cpp(105,9): warning C4101: 'num': 未參考的區域變數
+  Max_Heap.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\Max_Heap\Debug\Max_Heap.exe

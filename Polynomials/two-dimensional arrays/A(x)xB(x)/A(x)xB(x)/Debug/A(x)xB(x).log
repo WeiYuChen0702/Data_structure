@@ -1,0 +1,4 @@
+﻿  A(x)xB(x).cpp
+E:\108325105_0321\Data_structure\Polynomials\two-dimensional arrays\A(x)xB(x)\A(x)xB(x)\A(x)xB(x).cpp(59,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Data_structure\Polynomials\two-dimensional arrays\A(x)xB(x)\A(x)xB(x)\A(x)xB(x).cpp(63,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  A(x)xB(x).vcxproj -> E:\108325105_0321\Data_structure\Polynomials\two-dimensional arrays\A(x)xB(x)\Debug\A(x)xB(x).exe

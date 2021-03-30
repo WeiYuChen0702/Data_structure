@@ -1,0 +1,5 @@
+﻿  Maze_solving.cpp
+E:\108325105_0321\Data_structure\Maze_solving\Maze_solving\Maze_solving.cpp(9,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Data_structure\Maze_solving\Maze_solving\Maze_solving.cpp(19,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Data_structure\Maze_solving\Maze_solving\Maze_solving.cpp(39,21): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  Maze_solving.vcxproj -> E:\108325105_0321\Data_structure\Maze_solving\Debug\Maze_solving.exe

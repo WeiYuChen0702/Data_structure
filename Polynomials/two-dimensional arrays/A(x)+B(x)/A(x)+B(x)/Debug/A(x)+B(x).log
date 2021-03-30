@@ -1,0 +1,4 @@
+﻿  A(x)+B(x).cpp
+E:\108325105_0321\Data_structure\Polynomials\two-dimensional arrays\A(x)+B(x)\A(x)+B(x)\A(x)+B(x).cpp(14,52): warning C4101: 'count2': 未參考的區域變數
+E:\108325105_0321\Data_structure\Polynomials\two-dimensional arrays\A(x)+B(x)\A(x)+B(x)\A(x)+B(x).cpp(14,28): warning C4101: 'arr2': 未參考的區域變數
+  A(x)+B(x).vcxproj -> E:\108325105_0321\Data_structure\Polynomials\two-dimensional arrays\A(x)+B(x)\Debug\A(x)+B(x).exe
