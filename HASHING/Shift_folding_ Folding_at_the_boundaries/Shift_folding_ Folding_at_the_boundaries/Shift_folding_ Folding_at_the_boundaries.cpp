@@ -26,16 +26,16 @@ void bubble(int at[][SIZE], int slot[])
 		}
 	}
 }
-void linear(int chaining[SIZE][SIZE], int linearX[SIZE][SIZE], int slot[SIZE])
+void linear(int chaining[SIZE][SIZE],int linearX[SIZE][SIZE], int slot[SIZE])
 {
 	int count1 = 0;
 	int temp[10] = { 0 };
 	for (int i = 0; i < SIZE; i++)
 	{
-
+		
 		for (int j = 0; j < SIZE; j++)
 		{
-
+			
 			if (j > 4 && chaining[i][j] != 0)
 			{
 
@@ -110,7 +110,7 @@ void open(int at[][SIZE])
 	char num[3] = {}, num1[3] = {};
 	int chanum = 0, chanum1 = 0;
 	char c;
-	FILE* cp;
+	FILE *cp;
 	int slot[SIZE] = {};
 	cp = fopen("17.txt", "r");
 
@@ -160,8 +160,8 @@ void open(int at[][SIZE])
 			{
 				break;
 			}
-			chanum = atoi(num);//¨S¦³ÄA­Ë
-			chanum1 = atoi(num1);//³QÄA­Ë
+			chanum = atoi(num);//æ²’æœ‰é¡›å€’
+			chanum1 = atoi(num1);//è¢«é¡›å€’
 			at[0][i] = chanum + at[0][i];
 
 			if (count % 2 == 1)
